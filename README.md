@@ -1,7 +1,7 @@
 ### Hello,  I'm Joong Hui Kim👋
 
 
-software developer - medical information system field
+Software Developer - medical information system field
 -------------------------------------------------------
 Major programs :   
 -Clinical Decision Support System   
