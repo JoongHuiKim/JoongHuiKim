@@ -20,8 +20,8 @@ Programming Language
 
 Education
 ----------
-Master in Engineering, Department of Artificial Intelligence Systems
-(2021-09 ~ present)
+Master in Engineering, Department of Artificial Intelligence Systems   
+Hanyang University, Seoul (2021-09 ~ present)
 
 <!--
 **JoongHuiKim/JoongHuiKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
